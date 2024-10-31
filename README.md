@@ -5,14 +5,15 @@
 ## 👋 Welcome to my GitHub! 
 I’m a passionate Software QA Engineer specializing in Test Automation, but I’m more than just that. As a Full-Stack Developer, I thrive on creating innovative solutions that seamlessly integrate front-end and back-end technologies. I also harness the power of Machine Learning, utilizing TensorFlow to build intelligent models that enhance user experiences.
 
-## 💡 What I Do:
+## 💡 What I Currently Do:
 ### 👍 <ins>Test Automation</ins>
 Crafting robust and scalable automation frameworks that ensure software quality and reliability, employing tools like Selenium, Cucumber, and RestAssured.
 
 ### 👍 <ins>Full-Stack Development</ins>
 Designing and developing dynamic web applications with a strong focus on user experience, leveraging technologies such as React, Node.js, and more.
 
-### 👍 <ins>Machine Learning</ins>
+## 💡 What I Am Aiming to Do:
+## 👍 <ins>Machine Learning</ins>
 Developing and deploying machine learning models using TensorFlow, turning data into actionable insights and intelligent applications.
 
 ## 🌍 Let's Connect:
