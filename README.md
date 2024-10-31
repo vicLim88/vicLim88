@@ -1,4 +1,6 @@
 # Hi there 👋
+![Header](./your-header-image-name.png)
+
 I'm Vic from Singapore, and I bring codes to actions. While I specialized in test automation, I do tinker alot with other fields, like web design, api development and AI-model creations. 
 
 I really enjoyed learning languages and frameworks like
