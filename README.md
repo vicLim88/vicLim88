@@ -15,24 +15,7 @@ Designing and developing dynamic web applications with a strong focus on user ex
 ## 🌍 Let's Connect:
 I'm excited to collaborate with fellow developers, QA professionals, and anyone interested in innovative technology solutions. Whether you want to discuss test strategies, full-stack projects, or machine learning advancements, feel free to reach out!<br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vicLim88)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/viclim88-88888888/)  
-
-
-- 🔭 I’m currently working on Test Automation Freelancing 
-- ✍🏼 My Professional Target
-  - <ins>ISTQB</ins>
-    2. Specialist Performance Testing
-    3. Specialist Test Automation Engineer
-    4. Specialist AI Testing
-    5. Core Test Manager
-  - <ins>Java</ins>
-    1. Java SE 21 Developer Professional 1Z0-830
-  - <ins>AWS</ins>
-    1. Solution Architect Associate
-    2. Machine Learning Associate
-    3. DevOps Engineer Professional
-- 🎯 I’m currently studying for
-    1. Foundation Certified Tester 4.0
  
-       
+## My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicLim88)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vicLim88&show_icons=true&count_private=true)  
