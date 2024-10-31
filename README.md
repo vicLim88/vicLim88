@@ -12,10 +12,6 @@ Crafting robust and scalable automation frameworks that ensure software quality 
 ### 👍 <ins>Full-Stack Development</ins>
 Designing and developing dynamic web applications with a strong focus on user experience, leveraging technologies such as React, Node.js, and more.
 
-## 💡 What I Am Aiming to Do:
-### 👍 <ins>Machine Learning</ins>
-Developing and deploying machine learning models using TensorFlow, turning data into actionable insights and intelligent applications.
-
 ## 🌍 Let's Connect:
 I'm excited to collaborate with fellow developers, QA professionals, and anyone interested in innovative technology solutions. Whether you want to discuss test strategies, full-stack projects, or machine learning advancements, feel free to reach out!<br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vicLim88)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/viclim88-88888888/)  
