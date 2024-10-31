@@ -1,16 +1,11 @@
-## Hi there 👋
+# Hi there 👋
+I'm Vic from Singapore, and I bring codes to actions. While I specialized in test automation, I do tinker alot with other fields, like web design, api development and AI-model creations. 
 
-<!--
-**vicLim88/vicLim88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I really enjoyed learning languages and frameworks like
+  1. `Java`
+  2. `Python`
+  3. `Typescript`
+  4. `React`
+  5. `Gherkin`
+  6. `Tensorflow`
+[![Vic's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicLim88)](https://github.com/anuraghazra/github-readme-stats)
