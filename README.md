@@ -1,5 +1,5 @@
 # Hi there 👋
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 I'm Vic from Singapore, and I bring codes to actions. While I specialized in test automation, I do tinker alot with other fields, like web design, api development and AI-model creations. 
 
