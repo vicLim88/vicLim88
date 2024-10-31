@@ -8,4 +8,5 @@ I really enjoyed learning languages and frameworks like
   4. `React`
   5. `Gherkin`
   6. `Tensorflow`
-[![Vic's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicLim88)](https://github.com/anuraghazra/github-readme-stats)
+     
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vicLim88)](https://github.com/anuraghazra/github-readme-stats)
