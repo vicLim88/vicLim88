@@ -13,7 +13,7 @@ Crafting robust and scalable automation frameworks that ensure software quality 
 Designing and developing dynamic web applications with a strong focus on user experience, leveraging technologies such as React, Node.js, and more.
 
 ## 💡 What I Am Aiming to Do:
-## 👍 <ins>Machine Learning</ins>
+### 👍 <ins>Machine Learning</ins>
 Developing and deploying machine learning models using TensorFlow, turning data into actionable insights and intelligent applications.
 
 ## 🌍 Let's Connect:
